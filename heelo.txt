@@ -1,6 +1,8 @@
 hello git~~ 
 hello git~~ 
 hello git~~ 
-hello git~~ 
-hello git~~  master test
+<<<<<<< HEAD
+hello git~~
+hello git~~ hot-fix test
+hello git~~  master test 
 hello git66666~~ 
