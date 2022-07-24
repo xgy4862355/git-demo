@@ -8,4 +8,5 @@ hello git66666~~
 remodified by github
 lhc cloned
 and remodified by lhc
-test ssh
+test ssh pull from github success
+test ssh push into github
