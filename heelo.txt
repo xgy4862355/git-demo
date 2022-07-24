@@ -6,3 +6,5 @@ hello git~~ hot-fix test
 hello git~~  master test 
 hello git66666~~ 
 remodified by github
+lhc cloned
+and remodified by lhc
